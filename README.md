@@ -13,5 +13,4 @@
 | `generator.py`    | generate multiple testcases in `Test Cases` folder |
 | `reout.py`        | update all outputs (`Test Cases/output`) according to inputs (`Test Cases/input`) |
 | `color_print.py`  | color text on terminal |
-| `compiler_run`    | compile and run code |
-
+| `compiler_run.py` | compile and run code |
